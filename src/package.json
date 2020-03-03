@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "is-extglob": "^2.1.1"
+  }
+}
